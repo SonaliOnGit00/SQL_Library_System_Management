@@ -1,4 +1,4 @@
-# Library Management System using SQL Project --P2
+# Library Management System using SQL Project 
 
 ## Project Overview
 
@@ -258,5 +258,6 @@ SQL (for data handling and analysis)
 Excel / Python (optional) for visualization and insights
 
 - **YouTube**: [reference](https://www.youtube.com/@zero_analyst)
+
 
 
